@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+cvxopt>=1.3.0  # For L1 optimization
+scipy>=1.11.0  # For signal processing
